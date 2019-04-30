@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["lelthar"]
   spec.email         = ["geraldm1998@hotmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Write a short summary, because RubyGems requires one.}
+  spec.description   = %q{Write a longer description or delete this line.}
+  spec.homepage      = "https://github.com/geraldma1998/devcamp_copyright_tool/blob/master/README.md"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
